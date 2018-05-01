@@ -55,5 +55,4 @@
       "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
     -->
     <string name="order_summary_email_subject">Just Java Order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
-
 </resources>
